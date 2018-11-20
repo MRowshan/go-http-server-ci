@@ -1,4 +1,4 @@
 # go-http-server-ci
 
-To run  
+To build run the jenkins server:  
 `docker build -t jenkins . && ./docker-run`
